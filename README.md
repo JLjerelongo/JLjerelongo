@@ -1,16 +1,15 @@
-### Hi there 👋
+Hola! Soy Jeremias Longo
 
-<!--
-**JLjerelongo/JLjerelongo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+¿Quien soy?
+Soy un estudiante de programacion en la universidad Tecnologica Nacional de Cordoba, tambien estudio la carrera full stack en SoyHenry y estoy a punto de recibirme como analista de mercados y estrategias de comercializacion en el colegio universitario ies21.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+¿Que tecnologias uso?
+Javascript
+C#
+React.js
+Node.js
+Express.js
+PostgreSQL
+SQLserver
+Sequelize
+GIT
